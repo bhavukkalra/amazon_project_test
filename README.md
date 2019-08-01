@@ -7,6 +7,7 @@ to use this code first you have to install requests and bs4(Beautifullsoup) usin
 (THIS IS A FUTURE UPDATE TO THE PROJECT THAT I AM WORKING ON AFTER WHICH YOU NO LONGER NEED THIS STEP)
 
 3) set the desired price to which you want to receive a message about price going down
+(IN IF STATEMENT)
 
 4) server.sendmail('bhavukkalra1786@gmail.com','YOUR_EMAIL_ADDRESS',msg)  change this line to fill in your email address and thats it.
 
