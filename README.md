@@ -13,5 +13,5 @@ URL("YOUR_LINK",'User-agent' "YOUR_USER AGENT")
 
 4) server.sendmail('bhavukkalra1786@gmail.com','YOUR_EMAIL_ADDRESS',msg)  change this line to fill in your email address and thats it.
 
-CURRENTLY I AM ALSO WORKING ON A GLOBAL EMAILING SERVICE AND INCORPORATING ITS API INTO THIS PROGRAM AS YOU CAN SEE CURRENTLY I HAVE USED MINE EMAIL ADDRESS FOR SENDING THE EMAILS 
+in upcoming update a global emailing service is incorporated(finished) (to be pushed)
 
